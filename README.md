@@ -1,6 +1,6 @@
 # Relógio Analógico e Digital com JavaScript
 
-Este é o *2° projeto* do desafio *7 Projetos em 7 Dias, onde desenvolvi um relógio analógico e digital utilizando **HTML, **CSS* e *JavaScript*. O relógio exibe a hora atual de forma animada, com ponteiros para as horas, minutos e segundos, além de um relógio digital que exibe a hora de forma numérica.
+Este é o *2° projeto* do desafio *7 Projetos em 7 Dias*, onde desenvolvi um relógio analógico e digital utilizando *HTML*, *CSS* e *JavaScript*. O relógio exibe a hora atual de forma animada, com ponteiros para as horas, minutos e segundos, além de um relógio digital que exibe a hora de forma numérica.
 
 ## 🚀 Funcionalidades
 
