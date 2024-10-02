@@ -31,8 +31,8 @@ Você pode acessar o projeto diretamente através do GitHub Pages:
 
 ## 🔗 Demais projetos do dsafio
 
--Projeto 1 - [Bateria](https://github.com/JoaoMiano/bateriaJS)
--Projeto 3 - [Verificar clima](https://joaomiano.github.io/Clima/)
+- Projeto 1 - [Bateria](https://github.com/JoaoMiano/bateriaJS)
+- Projeto 3 - [Verificar clima](https://joaomiano.github.io/Clima/)
 
 ## 👨‍💻 Autor
 
